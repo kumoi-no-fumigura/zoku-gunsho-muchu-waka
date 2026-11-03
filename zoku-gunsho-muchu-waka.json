@@ -1970,6 +1970,10 @@
    "kotobagaki": "一詠賢善菩薩章普紹"
   }
  ],
+ "translation": {
+  "count": 17,
+  "note": "AI による現代語訳"
+ },
  "catalog": {
   "work_id": "zoku-gunsho-muchu-waka",
   "work": "夢中和歌",
@@ -1982,7 +1986,7 @@
   "blocks": 17,
   "chars": 4558,
   "poems": 102,
-  "yaku": 0,
+  "yaku": 17,
   "editions": 1,
   "updated": "2026-11-03",
   "updated_at": "2026-11-03T12:30:20+09:00"
